@@ -16,7 +16,7 @@
   </a>
  <a href="https://cvdesignr.com/p/68e6986426e95?hl=EN" target="_blank">
   <img src="https://img.freepik.com/premium-vector/alphabet-letters-initials-monogram-logo-cv-initial-letter-cv-logo-design-template-vector_1245012-109.jpg" 
-       height="25" 
+       height="35" 
        alt="resume site logo" />
 </a>
 

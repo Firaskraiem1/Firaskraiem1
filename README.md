@@ -14,6 +14,12 @@
   <a href="https://www.self.so/firas-ben-kraiem-5a4b6d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume%20Site&logo=About.me&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume site logo"  />
   </a>
+ <a href="https://cvdesignr.com/p/68e6986426e95?hl=EN" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Plain_circle.png" 
+       height="25" 
+       alt="resume site logo" />
+</a>
+
 </div>
 
 ###

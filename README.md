@@ -156,9 +156,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Firaskraiem1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-###
 ###
 
 <div align="center">
@@ -173,4 +170,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Firaskraiem1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Firaskraiem1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ###

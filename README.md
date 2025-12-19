@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">My name is Firas Ben Kraiem, and I am a computer engineer from Tunisia.</p>
+<p align="left">My name is Firas Ben Kraiem, and I am a software engineer from Tunisia.</p>
 
 ###
 

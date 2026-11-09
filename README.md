@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">My name is Firas Ben Kraiem, and I am a software engineer and AI engineer from Tunisia.</p>
+<p align="left">My name is Firas Ben Kraiem, and I am a software and AI engineer from Tunisia.</p>
 
 ###
 
